@@ -5,6 +5,7 @@ DECLARE @referencedTableName NVARCHAR(128)
 DECLARE @referencedColumnName NVARCHAR(128)
 DECLARE @sql NVARCHAR(MAX)
 DECLARE @schemaName NVARCHAR(128)
+DECLARE @schemaName NVARCHAR(128)
 
 -- Set the schema name you want to filter by
 SET @schemaName = 'dn'  -- Change this to your desired schema
