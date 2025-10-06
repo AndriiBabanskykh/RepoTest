@@ -1,1 +1,1 @@
-select * from Accounts where country = 'USA';
+select * from Accounts where country = 'Ukraine' and City = 'Kharkiv';
