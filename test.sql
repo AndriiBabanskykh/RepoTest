@@ -1,1 +1,1 @@
-select * from Accounts
+select * from Accounts where country = 'Canada';
